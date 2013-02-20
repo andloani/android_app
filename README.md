@@ -1,4 +1,4 @@
 android_app
 ===========
 
-some small android applications
+This git is for some small android applications
